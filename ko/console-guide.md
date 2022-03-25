@@ -12,7 +12,6 @@ Virtual Desktop 서비스를 관리할 담당자의 이름, 전화번호, 기타
 
 ![[그림 2] Virtual Desktop 이용 신청 (상세)](http://static.toastoven.net/prod_virtualdesktop/console_002.png)
 
-
 Virtual Desktop 신청 내역은 Virtual Desktop 상품 화면 하단에서 확인이 가능합니다.
 
 ![[그림 3] 이용 현황](http://static.toastoven.net/prod_virtualdesktop/console_003.png)
