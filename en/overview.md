@@ -1,6 +1,7 @@
 ## Compute > Virtual Desktop > Overview
 
-Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device. When you need internet access, you can use a flexible and smart work environment through the DaaS service with cloud virtualization technology. The Virtual Desktop service obtained Cloud Security Assurance Program (CSAP) to deliver a customized smart work environment optimized for public businesses through secure and reliable services and flexible utilization of various hardware resources.
+Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device.
+When you need internet access, you can use a flexible and smart work environment through the DaaS service with cloud virtualization technology. The Virtual Desktop service obtained Cloud Security Assurance Program (CSAP) to deliver a customized smart work environment optimized for public businesses through secure and reliable services and flexible utilization of various hardware resources.
 
 ## Overview
 ### Main Features
