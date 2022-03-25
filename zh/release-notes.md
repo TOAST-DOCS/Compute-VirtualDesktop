@@ -1,7 +1,7 @@
-## Compute > Virtual Desktop > 릴리스 노트
+## Compute > Virtual Desktop > Release Notes
 
 ### 2022.03.29.
 
-#### 신규 서비스 출시
+#### Release of New Service
 
-* Virtual Desktop 서비스는 시간, 장소, 기기에 상관없이 필요하면 언제 어디서나 개인의 업무 환경에 접속할 수 있는 클라우드 컴퓨팅 기반 가상 데스크톱 서비스입니다.
+* Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device.

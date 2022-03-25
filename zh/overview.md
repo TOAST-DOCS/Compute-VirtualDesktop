@@ -1,40 +1,38 @@
-## Compute > Virtual Desktop > 개요
+## Compute > Virtual Desktop > Overview
 
-Virtual Desktop 서비스는 시간, 장소, 기기에 상관없이 필요하면 언제 어디서나 개인의 업무 환경에 접속할 수 있는 클라우드 컴퓨팅 기반 가상 데스크탑 서비스입니다.
-인터넷망 접속이 필요한 경우 클라우드 가상화 기술이 적용된 DaaS(Desktop as a Service) 서비스를 활용함으로써 유연하고 스마트한 업무환경을 제공받을 수 있으며, 공공 Cloud 보안인증(CSAP)을 획득하여 원격근무시 안전하고 신뢰성 있는 서비스와 다양한 HW의 유연한 자원활용과 동시에 공공 비즈니스에 최적화된 맞춤형 스마트워크 서비스입니다.  
+Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device. When you need internet access, you can use a flexible and smart work environment through the DaaS service with cloud virtualization technology. The Virtual Desktop service obtained Cloud Security Assurance Program (CSAP) to deliver a customized smart work environment optimized for public businesses through secure and reliable services and flexible utilization of various hardware resources.
 
-## 소개
-### 주요 기능
-* 강력한 보안을 제공합니다.
-    * 국정원 CC 인증, GS 인증, 보안기능확인서 및 공공 Cloud 보안인증(CSAP)을 획득하여 높은 보안 기준을 충족하며 침입차단 및 암호화 통신을 위한 강력한 보안 기술로 신뢰성과 안정성을 보장합니다.
-    * 해킹, 정보 유출 등 보안 걱정 없는 안전한 가상 데스크톱 사용이 가능합니다. (유해사이트 차단 및 방화벽 기본 제공)
-    * 문서 프로그램, 백신 등 업무용 필수 S/W 서비스를 제공합니다.
-    * 장애 발생 시 일괄 복구 기능을 제공합니다.
-* 합리적인 요금으로 운영비용을 절감합니다
-    * 직접 VDI 구축 대비 초기 구축 비용 없이, 월 정액으로 70% 이상 저렴한 요금으로 이용할 수 있습니다.
-    * 기존 보유 PC를 업무환경에 맞게 재사용할 수 있어 PC 추가 구입 비용을 절감할 수 있습니다.
-    * 직원의 입·퇴사에 따른 PC 관리의 번거로움을 없애고, 가상 데스크톱 관리로 운영 비용을 절감합니다.
-    * Windows10 OS 라이선스 요금 포함 제공합니다. 
-* 편리한 관리도구를 제공합니다 
-     * 설치가 필요 없는 웹 기반의 관리자용 관리·모니터링 포털 제공합니다. (서버를 비롯하여 스토리지, VM(가상머신)까지 전반적인 모니터링 및 통합 관리)
-     * 보안·성능·장애 등을 중앙 모니터링·관리·제어하는 전용 포탈을 통한 손쉬운 관리가 가능합니다.
-     * HCI (Hyper-Converged Infrastructure) 기술을 적용하여, 운영이 용이하고 향후에도 용량 증설이 용이합니다.
-     * 사용자 그룹별 개인 업무 특성 등에 따라 독립적인 가상화 PC, 서버, 스토리지, 네트워크 구성·사용 관리가 가능합니다.
-     * 성능 요건 및 네트워크 상황에 맞는 업무용/그래픽용 2가지 유형의 프로토콜을 제공합니다.
-     * Window, 안드로이드, 애플(IOS) 등 다양한 운영 체계와 태블릿, 노트북, 휴대폰 등 다양한 기기에서 접속이 가능하여 언제 어디서나 연속 업무가 가능합니다.
-* 공공 비즈니스에 최적화된 맞춤형 서비스를 제공합니다.
-     * 공공 전용 Public Cloud(G-Cloud) 뿐 아니라 재택근무용 및 내부 업무용 서비스, SDDC 기반 센터 구축 서비스, VDI 망 분리 서비스, 공공 SaaS 서비스 등 맞춤형 서비스를 제공합니다.
-     * 기술 지원 전문가가 고객의 요구사항 및 비즈니스 환경에 맞는 서비스 구축 제안을 지원합니다.
-     * 국산 DBMS, 미들웨어 등 공공 특화 솔루션과 오픈소스 기반 파스타(PaaS-TA) 개발 환경을 제공합니다.
-     * 행정·공공기관의 전자정부 구현에 필요한 공공 SaaS 보안인증 컨설팅 및 다양한 소프트웨어를 제공합니다.
-     * 공공부문 클라우드 전환을 통한 전자정부 구현을 위한 클라우드 전문가들의 컨설팅을 지원합니다.
-* 클라우드의 전문가의 운영/관리를 제공합니다
-     * 기술 지원 전문가가 고객의 요구사항 및 비즈니스 환경에 맞는 서비스 구축 제안을 지원합니다.
-     * Virtual Desktop 클라우드 전문 엔지니어가 365일 편리하고 안정적인 운영 관리를 제공합니다. 
+## Overview
+### Main Features
+* Provides strong security.
+    * Meets the high security standards by obtaining the Common Criteria (CC) certification by National Intelligence Service, Good Software (GS) certification, and CSAP, and ensures reliability and stability with strong security technology for intrusion prevention and encrypted communication.
+    * Allows you to use a secure virtual desktop without worrying about hacking, information leakage, and other security issues. (Provides a harmful website blocking function and a firewall by default)
+    * Provides essential software services for business, such as document programs and vaccines.
+    * Provides a batch recovery function in case of failure.
+* Reduces operational costs with a reasonable pricing.
+    * Allows you to use the service at a monthly paid subscription, which is over 70% more affordable than on-premises deployment of VDI without initial deployment costs.
+    * Reduces the cost of purchasing additional PCs by reusing existing PCs according to the work environment.
+    * Reduces operational costs with virtual desktop management by removing the hassle of managing PCs for employees joining and quitting.
+    * Windows 10 license price is included.
+* Provides convenient management tools.
+    * Provides a web-based management/monitoring portal for administrators, without the need for installation. (Overall monitoring and integrated management of servers, storage, and virtual machines (VMs))
+    * Enables easy management through a dedicated portal to centrally monitor, manage, and control security, performance, failure, etc.
+    * Easy to operate the system and expand storage in the future by applying hyper-converged infrastructure (HCI) technology.
+    * Enables configuration and usage management of independent virtualized PC, server, storage, and network according to personal work characteristics within each user group.
+    * Provides two types of protocols, one for business and one for graphics to meet performance requirements and network environments.
+    * Allows you to work continuously anytime, anywhere through connection on various OSs such as Window, Android, and iOS from various devices including tablets, laptops, and smartphones.
+* Provides a customized service optimized for businesses.
+    * Provides customized services: a cloud service exclusive for public agencies (G-Cloud), services for remote working and internal business purposes, SDDC-based center deployment service, VDI network isolation service, and public SaaS service.
+    * Technical support experts assist with suggestions to build a service that is suited for customer requirements and business environments.
+    * Provides an open-source based PaaS-TA development environment, and solutions specialized for public sectors, such as Korean DBMS and middleware.
+    * Provides consulting for public SaaS security certification and various software to implement E-government of administrative and public organizations.
+    * Supports consulting by cloud experts to implement E-government through public sectors’ transition to the cloud.
+* Provides operation/management performed by cloud experts.
+    * Technical support experts offer suggestions to build a service that is suited for customer requirements and business environments.
+    * Provides a convenient and reliable operation management performed by Virtual Desktop cloud engineers 365 days a year.
 
-## 서비스 대상
-
-* 원격근무, 재택근무, 해외근무, 외근, 출장이 잦은 기업 및 기관 
-* 1인 2PC (업무 PC, 인터넷 PC) 사용에 따른 불편을 해소하고, 클라우드 전환을 원하는 기업 및 기관
-* 정보 유출, 해킹 사고로 보안 대책 마련이 필요한 기업 및 기관
-* PC 및 프로그램을 관리할 인력이 부족한 기업 및 기관 
+## Service Targets
+* Enterprise and organization customers where remote working, working from home, overseas working, out-of-office work, and business trip are frequent
+* Enterprise and organization customers who want to move to the cloud and remove the inconvenience of using two PCs per person (one for work, and one for internet access)
+* Enterprise and organization customers who need security measures due to information leakage and hacking incidents
+* Enterprise and organization customers who run out of workers in charge of managing PCs and programs
