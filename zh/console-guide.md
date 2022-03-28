@@ -1,22 +1,22 @@
-## Compute > Virtual Desktop > 콘솔 사용 가이드
+## Compute > Virtual Desktop > Console User Guide
 
-## 서비스 이용 
+## Using the Service 
 
-* **Console** 에 접속하여 Virtual Desktop 서비스를 활성화하고, 활성화된 **Virtual Desktop** 메뉴를 클릭합니다. 
-* 아래 그림과 같이 **Virtual Desktop 이용 신청**에서 **신청** 버튼을 클릭합니다.
+* Access the **Console**, activate the Virtual Desktop service, and click the activated **Virtual Desktop** menu. 
+* Click the **Apply** button in the **Apply for Virtual Desktop** as shown in the following figure.
 
-![[그림 1] Virtual Desktop 이용 신청](http://static.toastoven.net/prod_virtualdesktop/console_001.png)
+![[Figure 1] Applying for Virtual Desktop](http://static.toastoven.net/prod_virtualdesktop/console_001.png)
 
-* **Virtual Desktop 이용 신청** 팝업에서 담당자 정보 등을 기재합니다.
-* Virtual Desktop 서비스를 관리할 담당자의 이름, 전화번호, 기타 요청 사항을 자세히 작성합니다.
+* Enter the information of person in charge, etc. in the **Apply for Virtual Desktop** pop-up.
+* Fill in the name and phone number of the person in charge who will manage the Virtual Desktop service and other requests in detail.
 
-![[그림 2] Virtual Desktop 이용 신청 (상세)](http://static.toastoven.net/prod_virtualdesktop/console_002.png)
+![[Figure 2] Applying for Virtual Desktop (Detailed)](http://static.toastoven.net/prod_virtualdesktop/console_002.png)
 
-* Virtual Desktop 신청 내역은 Virtual Desktop 서비스 화면 하단에서 확인할 수 있습니다.
+* You can check the details of your Virtual Desktop application at the bottom of the Virtual Desktop service page.
 
-![[그림 3] 이용 현황](http://static.toastoven.net/prod_virtualdesktop/console_003.png)
+![[Figure 3] Usage Status](http://static.toastoven.net/prod_virtualdesktop/console_003.png)
 
-## 서비스 해지
+## Canceling the Service
 
-* **Console** 에 접속하여 **Virtual Desktop** 을 선택합니다.
-* **Virtual Desktop 이용 내역** 목록에서 해지를 원하는 항목의 **해지 신청** 버튼을 클릭합니다.
+* Access the **Console** and select **Virtual Desktop**.
+* In the **Virtual Desktop Usage History** list, click the **Request Cancellation** button for the item you want to cancel.
