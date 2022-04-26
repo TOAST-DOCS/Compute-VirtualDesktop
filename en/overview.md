@@ -1,19 +1,19 @@
 ## Compute > Virtual Desktop > Overview
 
-Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device. When you need internet access, you can use a flexible and smart work environment through the DaaS service with cloud virtualization technology. The Virtual Desktop service obtained Cloud Security Assurance Program (CSAP) to deliver a customized smart work environment optimized for public businesses through secure and reliable services and flexible utilization of various hardware resources.
+Virtual Desktop is a cloud computing-based virtual desktop service that allows you to access your workspace anywhere, anytime, from any device.
+When you need internet access, Virtual Desktop allows you to use a flexible and smart work environment through the DaaS service with cloud virtualization technology. The Virtual Desktop service is a customized smart work environment optimized for public businesses while ensuring secure and reliable services and flexible utilization of various hardware resources for remote working.
 
 ## Overview
 ### Main Features
 * Provides strong security.
-    * Meets the high security standards by obtaining the Common Criteria (CC) certification by National Intelligence Service, Good Software (GS) certification, and CSAP, and ensures reliability and stability with strong security technology for intrusion prevention and encrypted communication.
+    * Meets the high security standards by obtaining the Common Criteria (CC) certification by National Intelligence Service, Good Software (GS) certification, and Verification of Security Function Test, and ensures reliability and stability with strong security technology for intrusion prevention and encrypted communication.
     * Allows you to use a secure virtual desktop without worrying about hacking, information leakage, and other security issues. (Provides a harmful website blocking function and a firewall by default)
     * Provides essential software services for business, such as document programs and vaccines.
     * Provides a batch recovery function in case of failure.
 * Reduces operational costs with a reasonable pricing.
-    * Allows you to use the service at a monthly paid subscription, which is over 70% more affordable than on-premises deployment of VDI without initial deployment costs.
+    * Allows you to use the service at a monthly paid subscription, which is more affordable than on-premises deployment of VDI without initial deployment costs.
     * Reduces the cost of purchasing additional PCs by reusing existing PCs according to the work environment.
     * Reduces operational costs with virtual desktop management by removing the hassle of managing PCs for employees joining and quitting.
-    * Windows 10 license price is included.
 * Provides convenient management tools.
     * Provides a web-based management/monitoring portal for administrators, without the need for installation. (Overall monitoring and integrated management of servers, storage, and virtual machines (VMs))
     * Enables easy management through a dedicated portal to centrally monitor, manage, and control security, performance, failure, etc.
@@ -32,7 +32,7 @@ Virtual Desktop is a cloud computing-based virtual desktop service that allows y
     * Provides a convenient and reliable operation management performed by Virtual Desktop cloud engineers 365 days a year.
 
 ## Service Targets
-* Enterprise and organization customers where remote working, working from home, overseas working, out-of-office work, and business trip are frequent
+* Enterprises and organizations where remote working, working from home, overseas working, out-of-office work, and business trip are frequent
 * Enterprise and organization customers who want to move to the cloud and remove the inconvenience of using two PCs per person (one for work, and one for internet access)
 * Enterprise and organization customers who need security measures due to information leakage and hacking incidents
 * Enterprise and organization customers who run out of workers in charge of managing PCs and programs
